@@ -6,7 +6,7 @@
     "debug": "nodemon ."
   },
   "main": "index.js",
-  "repository": "https://github.com/theodorosidmar/node-redis.git",
+  "repository": "https://github.com/theodorosidmar/node-redis-lab.git",
   "author": "Sidmar Theodoro <theodorosidmar@gmail.com>",
   "private": false,
   "dependencies": {
