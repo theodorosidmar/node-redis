@@ -1,5 +1,5 @@
 {
-  "name": "node-redis",
+  "name": "node-redis-lab",
   "version": "0.0.1",
   "description": "Studying Redis!",
   "scripts": {
